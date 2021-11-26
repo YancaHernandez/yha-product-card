@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProductImage debe de mostrar el componente con la imagen  personalizada 1`] = `
+<img
+  alt="Product"
+  className="productImg undefined"
+  src="https://cdn.pixabay.com/photo/2012/04/05/01/24/dice-25637_960_720.png"
+/>
+`;
+
+exports[`ProductImage debe de mostrar el componente con la imagen del producto 1`] = `
+<div
+  className="productCard undefined"
+>
+  <img
+    alt="Product"
+    className="productImg undefined"
+    src="./coffee-mug.png"
+  />
+</div>
+`;
